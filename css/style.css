@@ -18,11 +18,12 @@
 }
 
 .skills {
-    margin-left: 100px;
+    margin-left: 150px;
 }
 
 .test-sites {
-    margin-left: 100px;
+    margin-left: 150px;
+    margin-top: 30px;
 }
 
 footer {
@@ -31,5 +32,6 @@ footer {
 }
 
 .me p {
-    margin-left: 100px;
+    margin-left: 150px;
+    margin-top: 30px;
 }
