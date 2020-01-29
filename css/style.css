@@ -1,0 +1,35 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.name {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.bio-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.skills {
+    margin-left: 100px;
+}
+
+.test-sites {
+    margin-left: 100px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+.me p {
+    margin-left: 100px;
+}
